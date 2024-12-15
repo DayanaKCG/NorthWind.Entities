@@ -6,14 +6,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NorthWind.Entities.Services
+namespace NorthWind.ConsoleApp.Services
 {
 	internal class AppLogger(IUserActionWriter writer)
 	{
-		public void WritherLine(string message)
+		public void WriterLog(string message)
 		{
 			UserAction Log = new UserAction("System", message);
-			writer.Writer(Log);
+			writer.Write(Log);
 		}
 	}
 }

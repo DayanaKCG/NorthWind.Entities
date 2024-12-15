@@ -1,10 +1,8 @@
-﻿namespace NorthWind.ConsoleApp
-{
-	internal class Program
-	{
-		static void Main(string[] args)
-		{
-			Console.WriteLine("Hello, World!");
-		}
-	}
-}
+﻿
+using NorthWind.ConsoleApp.Services;
+using NorthWind.Entities.Interfaces;
+
+IUserActionWriter Writer = default;
+
+AppLogger Logger = new AppLogger(Writer);
+Logger.WriterLog("Aplicacion started.");
