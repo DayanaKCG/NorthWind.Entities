@@ -1,0 +1,12 @@
+D:\demos\NorthWind\NorthWind.Entities\bin\Debug\net8.0\NorthWind.Entities.deps.json
+D:\demos\NorthWind\NorthWind.Entities\bin\Debug\net8.0\NorthWind.Entities.dll
+D:\demos\NorthWind\NorthWind.Entities\bin\Debug\net8.0\NorthWind.Entities.pdb
+D:\demos\NorthWind\NorthWind.Entities\obj\Debug\net8.0\NorthWind.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\demos\NorthWind\NorthWind.Entities\obj\Debug\net8.0\NorthWind.Entities.AssemblyInfoInputs.cache
+D:\demos\NorthWind\NorthWind.Entities\obj\Debug\net8.0\NorthWind.Entities.AssemblyInfo.cs
+D:\demos\NorthWind\NorthWind.Entities\obj\Debug\net8.0\NorthWind.Entities.csproj.CoreCompileInputs.cache
+D:\demos\NorthWind\NorthWind.Entities\obj\Debug\net8.0\NorthWind.Entities.sourcelink.json
+D:\demos\NorthWind\NorthWind.Entities\obj\Debug\net8.0\NorthWind.Entities.dll
+D:\demos\NorthWind\NorthWind.Entities\obj\Debug\net8.0\refint\NorthWind.Entities.dll
+D:\demos\NorthWind\NorthWind.Entities\obj\Debug\net8.0\NorthWind.Entities.pdb
+D:\demos\NorthWind\NorthWind.Entities\obj\Debug\net8.0\ref\NorthWind.Entities.dll
