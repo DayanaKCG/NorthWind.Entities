@@ -5,4 +5,4 @@ using NorthWind.Entities.Interfaces;
 IUserActionWriter Writer = default;
 
 AppLogger Logger = new AppLogger(Writer);
-Logger.WriterLog("Aplicacion started.");
+Logger.WriteLog("Aplicacion started.");
