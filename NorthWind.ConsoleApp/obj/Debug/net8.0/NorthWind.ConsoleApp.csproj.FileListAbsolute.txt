@@ -17,3 +17,5 @@ D:\demos\NorthWind\NorthWind.ConsoleApp\obj\Debug\net8.0\refint\NorthWind.Consol
 D:\demos\NorthWind\NorthWind.ConsoleApp\obj\Debug\net8.0\NorthWind.ConsoleApp.pdb
 D:\demos\NorthWind\NorthWind.ConsoleApp\obj\Debug\net8.0\NorthWind.ConsoleApp.genruntimeconfig.cache
 D:\demos\NorthWind\NorthWind.ConsoleApp\obj\Debug\net8.0\ref\NorthWind.ConsoleApp.dll
+D:\demos\NorthWind\NorthWind.ConsoleApp\bin\Debug\net8.0\NorthWind.Writers.dll
+D:\demos\NorthWind\NorthWind.ConsoleApp\bin\Debug\net8.0\NorthWind.Writers.pdb

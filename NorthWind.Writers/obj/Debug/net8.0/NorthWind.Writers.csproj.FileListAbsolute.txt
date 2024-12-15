@@ -1,0 +1,16 @@
+D:\demos\NorthWind\NorthWind.Writers\bin\Debug\net8.0\NorthWind.Writers.deps.json
+D:\demos\NorthWind\NorthWind.Writers\bin\Debug\net8.0\NorthWind.Writers.dll
+D:\demos\NorthWind\NorthWind.Writers\bin\Debug\net8.0\NorthWind.Writers.pdb
+D:\demos\NorthWind\NorthWind.Writers\bin\Debug\net8.0\NorthWind.Entities.dll
+D:\demos\NorthWind\NorthWind.Writers\bin\Debug\net8.0\NorthWind.Entities.pdb
+D:\demos\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.csproj.AssemblyReference.cache
+D:\demos\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.GeneratedMSBuildEditorConfig.editorconfig
+D:\demos\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.AssemblyInfoInputs.cache
+D:\demos\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.AssemblyInfo.cs
+D:\demos\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.csproj.CoreCompileInputs.cache
+D:\demos\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.sourcelink.json
+D:\demos\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWin.84729D45.Up2Date
+D:\demos\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.dll
+D:\demos\NorthWind\NorthWind.Writers\obj\Debug\net8.0\refint\NorthWind.Writers.dll
+D:\demos\NorthWind\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.pdb
+D:\demos\NorthWind\NorthWind.Writers\obj\Debug\net8.0\ref\NorthWind.Writers.dll
