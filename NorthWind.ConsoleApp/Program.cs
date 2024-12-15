@@ -1,9 +1,4 @@
-﻿using Microsoft.Extensions.Hosting;
-using NorthWind.ConsoleApp.Services;
-using NorthWind.Writers;
-using Microsoft.Extensions.DependencyInjection;
-
-var Builder = Host.CreateApplicationBuilder();
+﻿HostApplicationBuilder Builder = Host.CreateApplicationBuilder();
 Builder.Services.AddSingleton<IUserActionWriter, DebugWriter>();
 Builder.Services.AddSingleton<AppLogger>();
 Builder.Services.AddSingleton<ProductService>();
