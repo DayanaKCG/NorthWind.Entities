@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace NorthWind.Entities.ValueObjects
 {
-	public class UserAction
+	public class UserAction(string usr, string descripcion)
 	{
+		public DateTime CreateDateTime { get; } = DateTime.Now;
+		public string User => User;
+		public string Descricion => Descricion;
 	}
 }
