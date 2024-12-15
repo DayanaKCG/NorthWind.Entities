@@ -12,7 +12,7 @@ public class ConsoleWriter : IUserActionWriter
 {
 	public void Write(UserAction action)
 	{
-		Console.WriteLine("Console: {0}, {1}1 {2}",
+		Console.WriteLine("ConsoleWriter: {0}, {1}1 {2}",
 			action.CreatedDateTime, action.User, action.Descrpition);
 	}
 }
